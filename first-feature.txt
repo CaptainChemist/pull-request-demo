@@ -1,0 +1,2 @@
+This is the first feature of my project!
+Now I made a first edit to my first feature.
